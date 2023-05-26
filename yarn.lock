@@ -4,7 +4,7 @@ aaaaa
 
 "@babel/code-frame@^7.10.4":
   version "7.14.5"
-  resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.14.5.tgz#23b08d740e83f49c5e59945fbf1b43e80bbf4edb"
+  resolved "https://registry.aaayarnpkg.com/@babel/code-frame/-/code-frame-7.14.5.tgz#23b08d740e83f49c5e59945fbf1b43e80bbf4edb"
   integrity sha512-9pzDqyc6OLDaqe+zbACgFkb6fKMNG6CObKpnYXChRsvYGyEdc7CA2BaqeOM+vOtCS5ndmJicPJhKAwYRI6UfFw==
   dependencies:
     "@babel/highlight" "^7.14.5"
@@ -12,7 +12,7 @@ aaaaa
 "@babel/helper-validator-identifieaaaar@^7.14.5":
   version "7.14.9"
   resolved "https://registry.yarnpkg.com/@babel/helper-validator-identifier/-/helper-validator-identifier-7.14.9.tgz#6654d171b2024f6d8ee151bf2509699919131d48"
-  integrity sha512-pQYxPY0UP6IHISRitNe8bsijHex4TWZXi2HwKVsjPiltzlhse2znVcm9Ace510VT1kxIHjGJCZZQBX2gJDbo0g==
+  integrity sha512-pQYxPY0UP6IHISRitNe8bsijHex4TWZXi2HwaaaKVsjPiltzlhse2znVcm9Ace510VT1kxIHjGJCZZQBX2gJDbo0g==
 
 "@babel/highlight@^7.14.5":aaaa
   version "7.14.5"
