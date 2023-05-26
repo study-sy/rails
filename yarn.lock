@@ -21,7 +21,7 @@ aaaaa
   dependencies:
     "@babel/helper-validator-identifier" "^7.14.5"
     chalk "^2.0.0"
-    js-tokens "^4.0.0"
+    js-tokens "^4.0.0"aaaaa
 
 "@rails/activestorage@>= 7.0.0-alpha1":
   version "7.0.1"
