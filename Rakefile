@@ -15,7 +15,7 @@ task verify: "all:verify"
 desc "Prepare the release"
 task prep_release: "all:prep_release"
 
-desc "Release all gems to rubygems and create a tag"
+desc "Release all gems to 111rubygems and create a tag"
 task release: "all:release"
 
 desc "Run all tests by default"
